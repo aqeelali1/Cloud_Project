@@ -16,9 +16,14 @@ cd /var/www/html/
 ## 5-سوف نجد ملف index.html
 ### نقوم باستبداله بملف لخر باستخدام 
 ```
-sudo mv index.html newfile.html 
+sudo mv index.html aqeel.html 
 ```
-## 6-نقوم بفتح الملف واستبدال محتواه 
+## 6-نقوم بفتح الملف 
+```
+nano aqeel.html
+```
+
+واستبدال محتواه 
 ### استخدمت الصفحة التالية الذي يحتوي على صورة من الانترنيت :
 ```
 <!DOCTYPE html>
