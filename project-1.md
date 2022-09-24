@@ -1,4 +1,4 @@
-##1-Create Compute Engine 
+##  1-Create Compute Engine 
 ## 2-عمل تحديث للسيرفر بستخدام الامر التالي
 ```
 sudo apt-get update -y
