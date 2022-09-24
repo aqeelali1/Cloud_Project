@@ -24,7 +24,7 @@ nano aqeel.html
 ```
 
 واستبدال محتواه 
-### استخدمت الصفحة التالية الذي يحتوي على صورة من الانترنيت :
+### استخدمت الصفحة التالية التي تحتوي على صورة من الانترنيت :
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -37,6 +37,6 @@ nano aqeel.html
     <h1 align="lift" > <font face="loat" size="20" color= "#00AEEF"> Aqeel ALi</font></h1>
 </body>
 
-
 </html>
 ```
+
